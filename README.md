@@ -7,8 +7,10 @@
                                    👤 Name       : Sanjai B
                                    💼 Role       : Full Stack Developer, AI / ML Engineer
                                    🎓 Degree     : B.E. Computer Science & Engineering (CGPA: 8.21)
-                                   🧬 Interests  : Full Stack Development,  Artificial Intelligence, Machine Learning, LLMs & RAG, Generative AI
-                                   🚀 Currently  : Building AI-powered products, Competitive Programming, Research in AI Systems
+                                   🧬 Interests  : Full Stack Development,  Artificial Intelligence,
+                                                    Machine Learning, LLMs & RAG, Generative AI
+                                   🚀 Currently  : Building AI-powered products, Competitive Programming,
+                                                    Research in AI Systems
                                    💡 Philosophy : "Built, Not Born."
 
                                  └────────────────────────────────────────────┘
