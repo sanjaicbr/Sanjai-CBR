@@ -1,7 +1,7 @@
 <h1 align="center">💻 root@dev-machine:~$ whoami</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+%2F+Full+Stack+Developer;Building+Intelligent+Applications;LLMs+%2B+RAG+%2B+Agentic+AI;Turning+Ideas+Into+Impact." alt="Typing SVG" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
 </p>
 
 <table>
@@ -138,19 +138,6 @@
 - Claude AI and Agent Workflows — Anthropic Academy
 - Virtual Internship (AIML), Android Developer, IoT Cloud Engineer — Eduskills
 - Internet of Things (IoT) & Data Analytics Using Python — NPTEL
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanjaicbr&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjaicbr&theme=tokyonight" alt="GitHub Streak" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjaicbr&layout=compact&theme=tokyonight" alt="Top Langs"/>
-</p>
 
 ---
 
