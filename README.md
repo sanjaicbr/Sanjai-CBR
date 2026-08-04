@@ -35,7 +35,7 @@
 </td>
 <td width="45%" valign="top" align="center">
 
-<img src="assets/banner.png" width="260"/>
+<img src="assets/banner.svg" width="100%"/>
 
 <h4>Turning ideas into intelligent, real-world applications.</h4>
 
